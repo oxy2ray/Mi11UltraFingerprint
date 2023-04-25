@@ -1,0 +1,6 @@
+id=11UltraFingerprintFix
+name=Mi 11 Ultra fingerprint fix
+version=1.0
+versionCode=100
+author=Zer0in
+description=Replace system fingerprint with the fingerprint of global stable version.
